@@ -11,8 +11,6 @@ When i was more entertained to dig further in Ongezellig and was craving for mor
 
 ## Known Issues
 
-- In comics, pages is not sorted by numbers cause github is shit (probably wont fix cause i literally cant)
-- Numbers in Mayamail also not sorted (same shit)
 - Ugly .webp format of Maya's Sweet 16 english comic version, please do a pull request if you have png/jpg format.
 - No scenario of Ongezellig in Bonusmap, that .docx files are too big and im not even sure i can load them here.
 - Probably i forgot many more things for Ongezellig archive, you can always help me with Pull Requests
